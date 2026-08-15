@@ -240,30 +240,5 @@
     "DownloadCount": 0,
     "LastUpdate": 1786821624,
     "DownloadLinkTesting": "https://github.com/DeadlyDeathAngel/ExpCalculator/releases/latest/download/ExpCalculator.zip"
-  },
-  {
-    "Author": "DeadlyDeathAngel",
-    "Name": "Anamnesis Bridge",
-    "Punchline": "HTTP bridge for native Linux Anamnesis.",
-    "Description": "Exposes GPose, camera, world time/weather, territory, actors, appearance, equipment, skeleton posing, pose IPC, and game data over localhost HTTP. Auto-starts when signed in.",
-    "InternalName": "AnamnesisBridge",
-    "AssemblyVersion": "0.2.9.2",
-    "RepoUrl": "https://github.com/DeadlyDeathAngel/Anamnesis-Bridge",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Tags": [
-      "anamnesis",
-      "gpose",
-      "linux",
-      "bridge",
-      "DeadlyDeathAngel"
-    ],
-    "DownloadLinkInstall": "https://github.com/DeadlyDeathAngel/Anamnesis-Bridge/releases/download/v0.2.9.2/AnamnesisBridge.zip",
-    "DownloadLinkUpdate": "https://github.com/DeadlyDeathAngel/Anamnesis-Bridge/releases/download/v0.2.9.2/AnamnesisBridge.zip",
-    "DownloadLinkTesting": "https://github.com/DeadlyDeathAngel/Anamnesis-Bridge/releases/download/v0.2.9.2/AnamnesisBridge.zip",
-    "LastUpdate": "1783440000",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadCount": 0
   }
 ]
