@@ -32,7 +32,6 @@ https://raw.githubusercontent.com/DeadlyDeathAngel/DalamudPlugins/main/repo.json
 ## Excluded
 
 - **Luminus / Luminous** — Linux client bridge; depends on an unreleased app
-- **Glow / Glowmos** — intentionally not part of this repository
 
 ## Notes
 
