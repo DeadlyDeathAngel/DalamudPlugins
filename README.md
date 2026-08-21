@@ -28,7 +28,6 @@ https://raw.githubusercontent.com/DeadlyDeathAngel/DalamudPlugins/main/repo.json
 | Retain Me Not | [RetainMeNot](https://github.com/DeadlyDeathAngel/RetainMeNot) |
 | All The Things | [AllTheThings](https://github.com/DeadlyDeathAngel/AllTheThings) |
 | Exp Calculator | [ExpCalculator](https://github.com/DeadlyDeathAngel/ExpCalculator) |
-| Anamnesis Bridge | [Anamnesis-Bridge](https://github.com/DeadlyDeathAngel/Anamnesis-Bridge) |
 
 ## Excluded
 
