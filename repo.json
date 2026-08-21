@@ -247,7 +247,7 @@
  "Description": "Recruit members with saved Party Finder conditions and auto-relist",
  "Punchline": "Recruit members with saved Party Finder conditions and auto-relist.",
  "InternalName": "AutoPartyFinder",
- "AssemblyVersion": "1.0.0.0",
+ "AssemblyVersion": "1.0.0.1",
  "RepoUrl": "https://github.com/DeadlyDeathAngel/AutoPartyFinder",
  "ApplicableVersion": "any",
  "DalamudApiLevel": 15,
@@ -260,7 +260,7 @@
  "IsHide": false,
  "IsTestingExclusive": false,
  "DownloadCount": 0,
- "LastUpdate": 1787284121,
+ "LastUpdate": 1787329136
  "DownloadLinkTesting": "https://github.com/DeadlyDeathAngel/AutoPartyFinder/releases/latest/download/AutoPartyFinder.zip"
  }
 ]
