@@ -262,5 +262,28 @@
  "DownloadCount": 0,
  "LastUpdate": 1787329136,
  "DownloadLinkTesting": "https://github.com/DeadlyDeathAngel/AutoPartyFinder/releases/latest/download/AutoPartyFinder.zip"
+ },
+ {
+ "Author": "DeadlyDeathAngel",
+ "Name": "Phantom Job Confirm",
+ "Description": "Asks for confirmation before leaving Phantom Freelancer in Occult Crescent",
+ "Punchline": "Confirm before leaving Phantom Freelancer in Occult Crescent.",
+ "InternalName": "PhantomJobConfirm",
+ "AssemblyVersion": "1.0.0.0",
+ "RepoUrl": "https://github.com/DeadlyDeathAngel/PhantomJobConfirm",
+ "IconUrl": "https://raw.githubusercontent.com/DeadlyDeathAngel/PhantomJobConfirm/main/images/icon.png",
+ "ApplicableVersion": "any",
+ "DalamudApiLevel": 15,
+ "LoadPriority": 0,
+ "DownloadLinkInstall": "https://github.com/DeadlyDeathAngel/PhantomJobConfirm/releases/latest/download/PhantomJobConfirm.zip",
+ "DownloadLinkUpdate": "https://github.com/DeadlyDeathAngel/PhantomJobConfirm/releases/latest/download/PhantomJobConfirm.zip",
+ "Tags": [
+ "DeadlyDeathAngel"
+ ],
+ "IsHide": false,
+ "IsTestingExclusive": false,
+ "DownloadCount": 0,
+ "LastUpdate": 1788041740,
+ "DownloadLinkTesting": "https://github.com/DeadlyDeathAngel/PhantomJobConfirm/releases/latest/download/PhantomJobConfirm.zip"
  }
 ]
